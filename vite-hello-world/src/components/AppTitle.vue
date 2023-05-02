@@ -1,4 +1,5 @@
 <script>
+
  export default{
     name: "AppTitle",
 
@@ -10,7 +11,7 @@
 <template>
 <div>
   <h1>La mia prima app con vite</h1>
- 
+  <AppHero/>
 </div>
 
 </template>
